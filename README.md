@@ -3,7 +3,7 @@
 Simple fitness website made with HTML and CSS for the HTML & CSS Basics assignment.
 
 ## Live site
-https://your-username.github.io/bodybuilders-gym/
+[https://your-username.github.io/bodybuilders-gym/](http://127.0.0.1:5500/html/index.html)
 
 ## Team
 Group: SE-2512
